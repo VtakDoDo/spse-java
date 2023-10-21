@@ -1,5 +1,7 @@
 class A {
  public static void main(String args[]){
-     System.out.println("Hello World");
+    String meno = "Dominik";
+    System.out.println("Ahoj toto naprogramoval");
+    System.out.println(meno);
  }
 }
